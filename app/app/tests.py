@@ -18,3 +18,4 @@ class CalcTests(SimpleTestCase):
         res = calc.subtract(56, 15)
 
         self.assertEqual(res, 41)
+# This is a new line that ends the file.
